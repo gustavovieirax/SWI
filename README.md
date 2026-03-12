@@ -1,11 +1,24 @@
-# Olá, eu sou o Gustavo! 👋
+# 🐘 Estudos de PHP
 
-### 👨‍💻 Estudante de Técnico em Informática
+Repositório dedicado ao registro de evolução, exercícios e pequenos projetos em PHP.
 
-Atualmente estou focado em aprimorar minhas habilidades em **PHP** e construção de sistemas web estruturados.
 
-### 🚀 O que estou aprendendo agora:
-- 🐘 **PHP Deep Dive:** Manipulação de dados, POO e integração com bancos de dados.
-- 🗄️ **Databases:** MySQL e modelagem de dados.
-- 🌐 **Web Basics:** Aperfeiçoando HTML5, CSS3 e JavaScript.
-- 🇬🇧 **English:** Atualmente no nível Pré-Intermediário (Intermediate B1 progress).
+### 🎯 Objetivos de Aprendizado
+- [x] Sintaxe básica e Variáveis
+- [ ] Manipulação de Arrays e Strings
+- [ ] Integração com MySQL (PDO)
+- [ ] Programação Orientada a Objetos (POO)
+
+### 🛠️ Toolbox
+- **Linguagem:** PHP 8.x
+- **Ambiente:** XAMPP / Laragon
+- **Database:** MySQL
+- **Editor:** VS Code
+
+
+### 📂 Estrutura do Repositório
+*  Desafios de lógica e sintaxe.
+* Pequenas aplicações funcionais.
+* Conceitos e anotações teóricas.
+
+> 🚀 *Focado em construir uma base sólida em Back-end.*
