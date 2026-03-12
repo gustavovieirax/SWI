@@ -1,10 +1,9 @@
 # Olá, eu sou o [Seu Nome]! 👋
 
-### 👨‍💻 Estudante de Técnico em Informática | Entusiasta de Back-end
+### 👨‍💻 Estudante de Técnico em Informática
 
 Atualmente estou focado em aprimorar minhas habilidades em **PHP** e construção de sistemas web estruturados. Acredito que um código limpo e bem documentado é a base de um bom desenvolvedor.
 
----
 
 ### 🚀 O que estou aprendendo agora:
 - 🐘 **PHP Deep Dive:** Manipulação de dados, POO e integração com bancos de dados.
@@ -12,7 +11,6 @@ Atualmente estou focado em aprimorar minhas habilidades em **PHP** e construçã
 - 🌐 **Web Basics:** Aperfeiçoando HTML5, CSS3 e JavaScript.
 - 🇬🇧 **English:** Atualmente no nível Pré-Intermediário (Intermediate B1 progress).
 
----
 
 ### 🛠️ Toolbox (Minhas Ferramentas)
 <p align="left">
@@ -26,8 +24,8 @@ Atualmente estou focado em aprimorar minhas habilidades em **PHP** e construçã
 
 ### 📈 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavovieirax-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovieirax&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
