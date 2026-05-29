@@ -1,24 +1,18 @@
-# 🐘 Estudos de PHP
+# 🐘 Estudos de PHP  <img width="180" height="50" alt="image" src="https://github.com/user-attachments/assets/31de0e23-6765-4d7f-80bb-d92e4b8b274a" />
 
 Repositório dedicado ao registro de evolução, exercícios e pequenos projetos em PHP.
 
 
-### 🎯 Objetivos de Aprendizado
-- [x] Sintaxe básica e Variáveis
-- [ ] Manipulação de Arrays e Strings
-- [ ] Integração com MySQL (PDO)
-- [ ] Programação Orientada a Objetos (POO)
-
-### 🛠️ Toolbox
-- **Linguagem:** PHP 8.x
-- **Ambiente:** XAMPP / Laragon
-- **Database:** MySQL
-- **Editor:** VS Code
 
 
-### 📂 Estrutura do Repositório
-*  Desafios de lógica e sintaxe.
-* Pequenas aplicações funcionais.
-* Conceitos e anotações teóricas.
 
-> 🚀 *Focado em construir uma base sólida em Back-end.*
+
+
+
+
+
+
+
+### Professora Letícia
+Gustavo Vieira
+RM: 25204
