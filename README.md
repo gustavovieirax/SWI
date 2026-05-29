@@ -2,9 +2,7 @@
 
 Repositório dedicado ao registro de evolução, exercícios e pequenos projetos em PHP.
 
-
-
-
+      -> Aula 01 - Manipulando variáveis, além do if e for (Desenvolvendo)
 
 
 
